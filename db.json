@@ -1,0 +1,27 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" },
+    "featured": [
+        {
+            "title":"Blandit Veroeros Consequat 1",
+            "subTitle":"Mauris posuere eros vel metus laoreet auctor. In sodales tincidunt volutpat. Nunc pulvinar massa id risus porta hendrerit. Nunc nec nibh velit, sit amet consectetur neque dolor.",
+            "icon":"img09"
+        },
+        {
+            "title":"Blandit Veroeros Consequat 2",
+            "subTitle":"Mauris posuere eros vel metus laoreet auctor. In sodales tincidunt volutpat. Nunc pulvinar massa id risus porta hendrerit. Nunc nec nibh velit, sit amet consectetur neque dolor.",
+            "icon":"img10"
+        },
+        {
+            "title":"Blandit Veroeros Consequat 3",
+            "subTitle":"Mauris posuere eros vel metus laoreet auctor. In sodales tincidunt volutpat. Nunc pulvinar massa id risus porta hendrerit. Nunc nec nibh velit, sit amet consectetur neque dolor.",
+            "icon":"img11"
+        }
+
+    ]
+  }
